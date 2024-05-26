@@ -15,11 +15,6 @@ A spider robot capable of walking, climbing, and performing various autonomous t
 - Cura
 - Arduino IDE
 
-### Steps
-1. Clone the repository
-2. Install dependencies
-3. Configure settings
-
 ## Usage
 ### Basic Operation
 - How to start the robot
