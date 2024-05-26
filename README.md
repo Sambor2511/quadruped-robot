@@ -12,7 +12,8 @@ A spider robot capable of walking, climbing, and performing various autonomous t
 
 ## Installation
 ### Prerequisites
-- List of required hardware and software
+- Cura
+- Arduino IDE
 
 ### Steps
 1. Clone the repository
