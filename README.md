@@ -2,6 +2,7 @@
 
 ## Description
 A spider robot capable of walking, climbing, and performing various autonomous tasks.
+### Noted : This repo focus on the coding side so the robot part is from thingiverse.
 
 ## Table of Contents
 - [Installation](#installation)
